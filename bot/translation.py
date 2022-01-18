@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
+    START_TEXT = """<b>Hello {}!!</b>
 <i>Am Just A Unlimited Auto Filter Bot V2 Maintained by @justinbiebertg....😉
 
 Just Add Me To Your Group As admin I Will Provide Movies There🔥🔥😝
