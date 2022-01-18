@@ -45,7 +45,7 @@ For More Movies Join @malayalamcinemaas
 @CrazyBotsz
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> 🅢🅟🅘🅓🅔🅡 🅜🅐🅝  </code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/JustinBieberTG">JustinBieberTG</a></i></b>
 
